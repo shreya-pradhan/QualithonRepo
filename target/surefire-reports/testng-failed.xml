@@ -13,8 +13,8 @@
       <class name="com.qt.qualithon.test.RottenTomatoesMovieSearchTest">
         <methods>
           <include name="testSessionSetUp"/>
-          <include name="testMovieMetadataOnWebHasCorrectGenres" invocation-numbers="0"/>
-          <include name="testMovieMetadataOnWebHasCorrectWriters" invocation-numbers="0"/>
+          <include name="testMovieMetadataOnWebHasCorrectGenres" invocation-numbers="0 1"/>
+          <include name="testMovieMetadataOnWebHasCorrectWriters" invocation-numbers="0 1"/>
           <include name="testTearDown"/>
           <include name="testMovieMetadataOnWebHasCorrectMaturityRating" invocation-numbers="0"/>
         </methods>

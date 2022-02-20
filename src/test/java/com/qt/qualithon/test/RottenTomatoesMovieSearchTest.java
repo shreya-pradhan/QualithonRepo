@@ -39,7 +39,7 @@ public class RottenTomatoesMovieSearchTest {
     public Object[][] popularMovieTitles() {
         return new Object [][] {
             {"A Clockwork Orange"}
-          //  ,{"The Dark Knight Rises"}
+          ,{"The Dark Knight Rises"}
         };
     }
   
