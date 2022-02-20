@@ -65,7 +65,7 @@ public class TestSession {
      * @return    instance of TestSession with local google chrome browser
      **/
     public static TestSession ChromeTestSession(){
-        System.setProperty("webdriver.chrome.driver","C:/Users/DELL/Downloads/chromedriver_win32/chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver","chromedriver.exe");
         return new TestSession(new ChromeDriver());
     }
 
