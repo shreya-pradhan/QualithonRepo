@@ -41,3 +41,7 @@ A Panel of Judges will review each submission and rate the entry using following
 - Speed: Points would be given for the time the solution takes to solve each obstacle course. More points for faster finish.
 - Tool Selection: Points will be given based on fitment, efficiency and effectiveness of the tools selected for creating the bot.
 Final score would be a total of points attained in each criterion.
+
+### Issues Encountered
+- Maturity rating for Dark Knight rises in UI displays 12A where as the api result is pg-13
+- Genres and Writer values displayed in Ui is not same from API, this is in rotten tomatoes
